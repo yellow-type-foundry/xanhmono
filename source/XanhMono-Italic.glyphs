@@ -1,15 +1,6 @@
 {
-.appVersion = "1342";
-DisplayStrings = (
-"g/ahookabove des",
-"g/gcommaaccent",
-aeg,
-"R/Rcommaaccent",
-"c/cacute",
-"/lcommaaccent",
-"!?"
-);
-copyright = "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry)";
+.appVersion = "1346";
+copyright = "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry/xanhmono)";
 customParameters = (
 {
 name = license;
@@ -41,7 +32,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2020-09-29 02:44:02 +0000";
+date = "2020-09-29 08:13:51 +0000";
 designer = "Lam Bao, Duy Dao";
 designerURL = "https://yellow-type.com/";
 familyName = "Xanh Mono";
@@ -17910,5 +17901,5 @@ manufacturer = "Yellow Type Foundry";
 manufacturerURL = "https://yellow-type.com/";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 100;
+versionMinor = 101;
 }
