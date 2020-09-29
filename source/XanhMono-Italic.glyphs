@@ -1,5 +1,14 @@
 {
-.appVersion = "1346";
+.appVersion = "1342";
+DisplayStrings = (
+"g/ahookabove des",
+"g/gcommaaccent",
+aeg,
+"R/Rcommaaccent",
+"c/cacute",
+"/lcommaaccent",
+"!?"
+);
 copyright = "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry)";
 customParameters = (
 {
@@ -32,7 +41,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2020-09-28 16:48:51 +0000";
+date = "2020-09-29 02:44:02 +0000";
 designer = "Lam Bao, Duy Dao";
 designerURL = "https://yellow-type.com/";
 familyName = "Xanh Mono";
@@ -3395,7 +3404,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{178, 0}";
+position = "{190, 0}";
 },
 {
 name = top;
@@ -3524,7 +3533,7 @@ name = R;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, -71, 0}";
+transform = "{1, 0, 0, 1, -59, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -5731,7 +5740,7 @@ position = "{235, 0}";
 },
 {
 name = top;
-position = "{297, 540}";
+position = "{347, 540}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -5793,7 +5802,7 @@ name = c;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, -22, 0}";
+transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -5813,7 +5822,7 @@ name = c;
 },
 {
 name = caroncomb;
-transform = "{1, 0, 0, 1, -42, 0}";
+transform = "{1, 0, 0, 1, 8, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -5853,7 +5862,7 @@ name = c;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, -61, 0}";
+transform = "{1, 0, 0, 1, -11, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -6619,6 +6628,16 @@ color = 6;
 glyphname = g;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{153, -186}";
+},
+{
+name = top;
+position = "{307, 540}";
+}
+);
 guideLines = (
 {
 angle = -14.9314;
@@ -6735,6 +6754,7 @@ name = g;
 },
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, -22, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -6754,6 +6774,7 @@ name = g;
 },
 {
 name = commaturnedabovecomb;
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
@@ -6773,6 +6794,7 @@ name = g;
 },
 {
 name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -51, 0}";
 }
 );
 layerId = "63C36BCE-C2CB-4BF3-9C7E-344D74934179";
